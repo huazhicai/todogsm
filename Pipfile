@@ -5,6 +5,12 @@ name = "pypi"
 
 [packages]
 flask = "*"
+flask-login = "*"
+flask-sqlalchemy = "*"
+flask-wtf = "*"
+flask-babel = "*"
+faker = "*"
+flask-cors = "*"
 
 [dev-packages]
 
